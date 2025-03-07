@@ -5,4 +5,4 @@
 
  here is a poem about kyle:
 
- kyle is a cool guy.
+ kyle is not a cool guy.
